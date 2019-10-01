@@ -1,2 +1,1 @@
-"# Snakes-Game" 
-contributed by Vishesh Jain
+Snakes Game using JavaScript
