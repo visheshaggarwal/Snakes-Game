@@ -1,2 +1,1 @@
-"# Snakes-Game"
-best game!!!!!
+Snakes Game using JavaScript
